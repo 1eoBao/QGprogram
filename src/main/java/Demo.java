@@ -28,5 +28,7 @@ public class Demo {
         System.out.println(user);
         //关闭SqlSession
         sqlSession.close();
+
+
     }
 }
